@@ -1,2 +1,2 @@
 # msc-datascience-deeplearning
-A deep learning task of detecting and diagnosing various lung and colon cancers.
+using deep learning  to solve the multi-class classification  of detecting and diagnosing various lung and colon cancers.
